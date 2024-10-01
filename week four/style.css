@@ -78,7 +78,7 @@ h4 {
 	font-family: var(--ff-primary);
 }
 h1 {
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 h2 {
 	font-size: 1rem;
@@ -136,8 +136,7 @@ p {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	width: min(96%, 40em);
-	padding: 5rem 0;
+	width: min(90%, 40em);
 }
 .title {
 	text-align: center;
@@ -201,7 +200,7 @@ p {
 	background: var(--clr-primary-5);
 	position: absolute;
 	top: -0.25rem;
-	right: -0.5rem;
+	right: -0.45rem;
 	border-radius: 50%;
 }
 #number {
